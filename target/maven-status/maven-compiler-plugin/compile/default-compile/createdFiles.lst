@@ -1,0 +1,6 @@
+com\upiiz\relaciones\entities\PerfilEntity.class
+com\upiiz\relaciones\entities\LeccionEntity.class
+com\upiiz\relaciones\RelacionesApplication.class
+com\upiiz\relaciones\entities\CursoEntity.class
+com\upiiz\relaciones\entities\EstudianteEntity.class
+com\upiiz\relaciones\entities\TutorEntity.class
